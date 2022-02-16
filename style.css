@@ -9,7 +9,7 @@
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
 
-  --font-size-p: 18px;
+  --font-size-p: 1.125rem;
   --font-weight-light: 300;
   --font-weight-reg: 400;
   --font-weight-semi-bold: 600;
